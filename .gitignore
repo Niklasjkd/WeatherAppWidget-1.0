@@ -93,3 +93,5 @@ Carthage/Build
 fastlane/report.xml
 fastlane/screenshots
 
+# Api Key
+WeatherAppWidget/AppState.swift
