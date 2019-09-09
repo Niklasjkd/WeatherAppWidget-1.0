@@ -123,7 +123,6 @@
 		90F467481CEE6435009DB88D = {
 			isa = PBXGroup;
 			children = (
-				6E6A6F352326FDF400C8F8A5 /* .gitignore */,
 				90F467531CEE6435009DB88D /* WeatherAppWidget */,
 				90F467681CEE6436009DB88D /* WeatherAppWidgetTests */,
 				90F467731CEE6436009DB88D /* WeatherAppWidgetUITests */,
@@ -147,6 +146,7 @@
 		90F467531CEE6435009DB88D /* WeatherAppWidget */ = {
 			isa = PBXGroup;
 			children = (
+				6E6A6F352326FDF400C8F8A5 /* .gitignore */,
 				6E6A6F372326FEF100C8F8A5 /* AppState.swift */,
 				90F467541CEE6435009DB88D /* AppDelegate.swift */,
 				90F467561CEE6436009DB88D /* ViewController.swift */,
